@@ -1,0 +1,5 @@
+cred_valid_data = ['dumbledore@sct.team', '12345678qQ1']
+cred_invalid_data = ['dure@sc.tem', '123456789']
+cred_invalid_password = ['dumbledore@sct.team', '123456789']
+cred_empty_data = ['', '']
+cred_empty_password = ['dumbledore@sct.team', '']
